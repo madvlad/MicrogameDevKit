@@ -3,6 +3,12 @@ Development Kit for Microgames
 
 Don't worry about what this means.
 
+# The Idea
+- All templates provide basic gameplay logic to hack with
+- All templates derive from the TimerTemplate to provide easy communication to game overall
+- Template demonstrate different ways one might utilize the touchscreen to make a game
+- Everything is royalty free or original
+
 # To make
 - Basic poke game (like a balloon poping game)
 - Basic swipe game (Cutting a vegetable)
