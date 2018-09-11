@@ -23,4 +23,5 @@ The top level of the repo will be a list of folders for all the templates. Each 
 - Set build type to Android or iOS
 - Set package name to 'com.gamejam.<yourNameHere>'
 - Disable any rotation besides Portrait
+- Handle 3 different difficulties of play (0 - easy, 1 - normal, 2 - hard)
 - Remember to set the correct values in the MockCoreManager
