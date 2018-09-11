@@ -1,4 +1,4 @@
-# 🎮 Mobile Microgame Dev Kit 🎮
+# Mobile Microgame Dev Kit 🎮
 Development Kit for Microgames
 
 # What is a Microgame?
