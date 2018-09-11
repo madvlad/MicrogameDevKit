@@ -1,7 +1,9 @@
 # 🎮 Mobile Microgame Dev Kit 🎮
 Development Kit for Microgames
 
-Don't worry about what this means.
+# What is a Microgame?
+[Original Definition](https://www.mariowiki.com/Microgame)
+A microgame is a very short (roughly 8 seconds) game that has a single object. A microgame usually has a single input method and supplies 1 to 2 words max for instruction. [This simple example is taken from WarioWare Touched](https://www.mariowiki.com/Party_Popper). Since a microgame only lasts 8 seconds, they should be very easy to figure out how to beat.
 
 # The Idea
 - All templates provide basic gameplay logic to hack with
