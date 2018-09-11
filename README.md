@@ -1,4 +1,4 @@
-# Microgame Dev Kit
+# 🎮 Mobile Microgame Dev Kit 🎮
 Development Kit for Microgames
 
 Don't worry about what this means.
@@ -17,3 +17,4 @@ The top level of the repo will be a list of folders for all the templates. Each 
 - Basic swipe game (Cutting a vegetable)
 - Basic rub game (Erasing something with an eraser)
 - Basic scribble game (Connect point A to point B with a line)
+- Basic drag game (Drag puzzle piece into puzzle)
