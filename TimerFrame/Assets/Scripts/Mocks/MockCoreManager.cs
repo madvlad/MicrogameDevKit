@@ -9,5 +9,6 @@ namespace Assets.Mocks
     {
         public static bool WonGame = false;
         public static float CurrentTimeScale = 1f;
+		public static int difficulty = 0;
     }
 }
