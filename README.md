@@ -17,3 +17,10 @@ The top level of the repo will be a list of folders for all the templates. Each 
 - Basic rub game (Erasing something with an eraser)
 - Basic scribble game (Connect point A to point B with a line)
 - Basic drag game (Drag puzzle piece into puzzle)
+
+# Instructions for making a new microgame from scratch
+- First import the FrameTemplate unity package
+- Set build type to Android or iOS
+- Set package name to 'com.gamejam.<yourNameHere>'
+- Disable any rotation besides Portrait
+- Remember to set the correct values in the MockCoreManager
