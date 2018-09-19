@@ -16,7 +16,7 @@ A microgame is a very short (roughly 8 seconds) game that has a single object. A
 The top level of the repo will be a list of folders for all the templates. Each template is a standalone Unity solution.
 
 # To make
-- Basic swipe game (Cutting a vegetable)
+- Basic swipe game (Ninja star throw)
 - Basic rub game (Erasing something with an eraser)
 - Basic scribble game (Connect point A to point B with a line)
 - Basic drag game (Drag puzzle piece into puzzle)
