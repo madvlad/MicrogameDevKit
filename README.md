@@ -20,6 +20,7 @@ The top level of the repo will be a list of folders for all the templates. Each 
 - Basic rub game (Erasing something with an eraser)
 - Basic scribble game (Connect point A to point B with a line)
 - Basic drag game (Drag puzzle piece into puzzle)
+- Export all scripts and prefabs to shared .unitypackage without example scenes
 
 # Instructions for making a new microgame from scratch
 - First import the FrameTemplate unity package
